@@ -1,0 +1,1 @@
+cl %1 /nologo /link user32.lib gdi32.lib kernel32.lib
